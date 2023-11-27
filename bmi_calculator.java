@@ -38,6 +38,8 @@ value is greater than 25, the person is considered overweight. **/
         else if(25<bmi){
             System.out.println("the person is considered overweight");
         }
+        else{
+            System.out.println("Invalid Input");
         }
             
         }
